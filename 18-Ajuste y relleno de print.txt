@@ -1,0 +1,2 @@
+dato = "abcdefg"
+print(" Texto: {} ". format(dato).center(55, "-"))
